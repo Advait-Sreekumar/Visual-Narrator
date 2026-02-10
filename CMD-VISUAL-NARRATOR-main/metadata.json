@@ -1,0 +1,5 @@
+{
+  "name": "The Visual Narrator",
+  "description": "A magical photo-to-story engine that weaves your images into a cohesive narrative using Gemini 2.5 Multimodal capabilities.",
+  "requestFramePermissions": []
+}
