@@ -1,0 +1,11 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-bcrypt
+firebase-admin
+requests
+python-dotenv
+openai
+transformers
+torch
+pillow
